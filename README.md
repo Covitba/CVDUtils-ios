@@ -1,8 +1,8 @@
-# CVDUtils [![CI Status](https://img.shields.io/travis/Covitba/CVDUtils.svg?style=flat)](https://travis-ci.org/Covitba/CVDUtils)
+# CVDUtils [![Build Status](https://travis-ci.com/Covitba/CVDUtils-ios.svg?branch=master)](https://travis-ci.com/Covitba/CVDUtils-ios)
 
 ## Description
 
-CVDUtils is a library for ...
+CVDUtils is a library containig core components for every other library
 
 ## How to use it
 

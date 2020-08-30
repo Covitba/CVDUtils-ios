@@ -1,12 +1,12 @@
 PODS:
   - CVDUtils (0.1.0)
-  - Nimble (7.3.4)
-  - Quick (1.2.0)
+  - Nimble (8.1.1)
+  - Quick (3.0.0)
 
 DEPENDENCIES:
   - CVDUtils (from `./`)
-  - Nimble (~> 7.0)
-  - Quick (~> 1.2.0)
+  - Nimble (~> 8.1.0)
+  - Quick (~> 3.0.0)
 
 SPEC REPOS:
   trunk:
@@ -19,9 +19,9 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   CVDUtils: e5f16bff5c0cb413de9657f6dbd0ad218098a8a4
-  Nimble: 051e3d8912d40138fa5591c78594f95fb172af37
-  Quick: 58d203b1c5e27fff7229c4c1ae445ad7069a7a08
+  Nimble: 5f8a2fb6fa343a7242dfdd9d42f7267419d464b2
+  Quick: 6d9559f40647bc4d510103842ef2fdd882d753e2
 
-PODFILE CHECKSUM: 444b44a4f59886866938858f8e1543b51007173b
+PODFILE CHECKSUM: 3adb54eac8df2cbf7e225bb41da0f171e9045db7
 
 COCOAPODS: 1.8.4
