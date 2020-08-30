@@ -1,0 +1,27 @@
+PODS:
+  - CVDUtils (0.1.0)
+  - Nimble (7.3.4)
+  - Quick (1.2.0)
+
+DEPENDENCIES:
+  - CVDUtils (from `./`)
+  - Nimble (~> 7.0)
+  - Quick (~> 1.2.0)
+
+SPEC REPOS:
+  trunk:
+    - Nimble
+    - Quick
+
+EXTERNAL SOURCES:
+  CVDUtils:
+    :path: "./"
+
+SPEC CHECKSUMS:
+  CVDUtils: e5f16bff5c0cb413de9657f6dbd0ad218098a8a4
+  Nimble: 051e3d8912d40138fa5591c78594f95fb172af37
+  Quick: 58d203b1c5e27fff7229c4c1ae445ad7069a7a08
+
+PODFILE CHECKSUM: 444b44a4f59886866938858f8e1543b51007173b
+
+COCOAPODS: 1.8.4
